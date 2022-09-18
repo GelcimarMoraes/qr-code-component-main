@@ -76,7 +76,7 @@ p {
   text-align: center;
   width: 17em;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 1em;
   color: var(--p-color);
 }
 
@@ -102,12 +102,12 @@ p {
   p {
     top: 340px;
     width: 15em;
-    font-size: 15px;
+    font-size: 1em;
   }
   .attribution {
     top: 450px;
     width: 30em;
-    font-size: 10px;
+    font-size: 1em;
     padding: 0 0 20px;
   }
 }
