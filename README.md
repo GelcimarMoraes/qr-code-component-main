@@ -22,7 +22,7 @@ This is a solution to the [QR Code Component on Frontend Mentor](https://www.fro
 - CSS custom properties
 - Responsive Design
 
-## What I learned
+## 
 
 ## Author
 
